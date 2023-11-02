@@ -33,7 +33,7 @@ int main(void)
 		m_event_dispatch();
 	}
 
-	테스트중!
+	//테스트중!
 	
 	return 0;
 }
