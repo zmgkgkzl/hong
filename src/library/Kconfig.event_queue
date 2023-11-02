@@ -1,3 +1,0 @@
-menuconfig EVENT_QUEUE_SIZE
-	int "Event queue size"
-	default 64

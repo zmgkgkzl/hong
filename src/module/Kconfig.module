@@ -1,3 +1,0 @@
-module = APP_MODULE
-module-str = App module
-source "subsys/logging/Kconfig.template.log_config"
